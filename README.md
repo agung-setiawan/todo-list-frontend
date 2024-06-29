@@ -13,3 +13,13 @@ npm install
 ```
 npm run serve
 ```
+
+4. **Run application, open browser and go to this url**
+```
+http://localhost:8080
+```
+
+5. **Do registration**
+```
+http://localhost:8080/register
+```
